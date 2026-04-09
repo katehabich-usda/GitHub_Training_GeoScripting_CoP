@@ -1,1 +1,5 @@
-# practice github exercise
+# Anika hobbies
+
+# Hiking
+# Fiddling
+# Reading
