@@ -2,3 +2,4 @@
 -birding
 -biking
 -running
+-boating
