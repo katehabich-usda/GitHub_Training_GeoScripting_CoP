@@ -4,3 +4,4 @@ Guitar
 Piano
 Fishing
 Added a test hobby
+Hiking
