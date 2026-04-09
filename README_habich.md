@@ -1,0 +1,5 @@
+Hobbies:
+
+- swimming
+- reading
+- knitting
